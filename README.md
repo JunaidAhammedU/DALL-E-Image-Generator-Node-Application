@@ -1,0 +1,3 @@
+ABOUT THE PROJECT 
+
+Developed a pioneering DALL-E image generator using ChatGPT API within the MERN stack, showcasing expertise in Node.js, Express, and MongoDB. Seamlessly integrated ChatGPT's AI algorithm to create diverse, contextually relevant images based on user inputs. Strengthened proficiency in backend, frontend, and AI implementation, advancing skills in innovative application development.
